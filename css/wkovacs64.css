@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    font-family: monaco,Consolas,Lucida Console,monospace;
+    padding-top: 25px;
+}
+
+h1 {
+    color: #B5E853;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #666352;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.profile-image {
+    margin-top: 75px;
+}
