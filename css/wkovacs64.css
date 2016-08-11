@@ -16,6 +16,10 @@ h2 {
     font-weight: 300;
 }
 
+.profile-content {
+    margin-top: 20px;
+}
+
 .profile-image {
-    margin-top: 75px;
+    margin-top: 50px;
 }
