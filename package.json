@@ -1,0 +1,19 @@
+{
+  "name": "wkovacs64.com",
+  "version": "1.0.0",
+  "description": "wKovacs64 Personal Website",
+  "repository": "git@github.com:wKovacs64/wkovacs64.github.io.git",
+  "author": {
+    "name": "Justin Hall",
+    "email": "justin.r.hall@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "http://wkovacs64.com",
+  "scripts": {
+    "start": "browser-sync start --server --files ."
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  },
+  "private": true
+}
