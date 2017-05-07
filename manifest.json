@@ -2,7 +2,7 @@
   "name": "wKovacs64",
   "short_name": "wKovacs64",
   "start_url": "/index.html",
-  "display": "minimal-ui",
+  "display": "standalone",
   "icons": [
     {
       "src": "\/android-chrome-192x192.png?v=2",
