@@ -1,6 +1,7 @@
 {
   "name": "wKovacs64",
   "short_name": "wKovacs64",
+  "display": "minimal-ui",
   "icons": [
     {
       "src": "\/android-chrome-192x192.png?v=2",
