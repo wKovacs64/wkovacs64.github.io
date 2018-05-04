@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "commitMessageTopic": "{{depName}}",
-  "gitAuthor": "Justin Hall <justin.r.hall@gmail.com>",
+  "gitAuthor": "Renovate Bot <justin.r.hall@gmail.com>",
   "automergeType": "branch-push",
   "automerge": true,
   "major": {
