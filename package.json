@@ -13,7 +13,7 @@
     "start": "browser-sync start --server --files ."
   },
   "devDependencies": {
-    "browser-sync": "2.25.0"
+    "browser-sync": "2.26.0"
   },
   "private": true
 }
