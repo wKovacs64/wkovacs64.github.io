@@ -1,5 +1,5 @@
 {
-  "name": "wkovacs64.com",
+  "name": "wkovacs64.github.io",
   "version": "1.0.0",
   "description": "wKovacs64 Personal Website",
   "repository": "git@github.com:wKovacs64/wkovacs64.github.io.git",
@@ -8,7 +8,7 @@
     "email": "justin.r.hall@gmail.com"
   },
   "license": "MIT",
-  "homepage": "http://wkovacs64.com",
+  "homepage": "https://wkovacs64.github.io/",
   "scripts": {
     "start": "browser-sync start --server --files ."
   },
