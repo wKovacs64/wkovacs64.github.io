@@ -2,7 +2,10 @@
   "name": "wkovacs64.github.io",
   "version": "1.0.0",
   "description": "wKovacs64 Personal Website",
-  "repository": "git@github.com:wKovacs64/wkovacs64.github.io.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wKovacs64/wkovacs64.github.io.git"
+  },
   "author": {
     "name": "Justin Hall",
     "email": "justin.r.hall@gmail.com"
