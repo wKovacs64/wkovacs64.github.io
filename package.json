@@ -19,7 +19,7 @@
   "devDependencies": {
     "browser-sync": "2.26.7",
     "husky": "4.2.0",
-    "lint-staged": "10.0.1",
+    "lint-staged": "10.0.2",
     "prettier": "1.19.1"
   },
   "private": true
