@@ -17,6 +17,7 @@
     "start": "browser-sync start --server --files ."
   },
   "devDependencies": {
+    "@wkovacs64/prettier-config": "2.0.0",
     "browser-sync": "2.26.7",
     "husky": "4.2.3",
     "lint-staged": "10.0.8",
