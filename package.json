@@ -14,6 +14,7 @@
   "homepage": "https://wkovacs64.github.io/",
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,html,css,json,md,mdx,yml,yaml}\"",
+    "postinstall": "husky install",
     "start": "browser-sync start --server --files ."
   },
   "devDependencies": {
