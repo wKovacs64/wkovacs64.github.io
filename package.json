@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@wkovacs64/prettier-config": "3.0.0",
-    "browser-sync": "2.27.7",
+    "browser-sync": "2.27.8",
     "husky": "7.0.4",
     "lint-staged": "12.3.5",
     "prettier": "2.5.1"
