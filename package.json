@@ -22,7 +22,7 @@
     "@wkovacs64/prettier-config": "3.0.0",
     "browser-sync": "2.27.9",
     "husky": "7.0.4",
-    "lint-staged": "12.3.5",
+    "lint-staged": "12.3.6",
     "prettier": "2.6.0"
   },
   "private": true
