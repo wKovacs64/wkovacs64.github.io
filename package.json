@@ -14,15 +14,11 @@
   "homepage": "https://wkovacs64.github.io/",
   "scripts": {
     "format": "prettier --write .",
-    "husky:install": "husky install",
-    "prepare": "npm run --silent husky:install",
     "start": "browser-sync start --server --files ."
   },
   "devDependencies": {
     "@wkovacs64/prettier-config": "3.0.3",
     "browser-sync": "2.27.10",
-    "husky": "8.0.2",
-    "lint-staged": "13.0.4",
     "prettier": "2.8.0"
   },
   "private": true
