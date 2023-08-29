@@ -19,7 +19,7 @@
   "devDependencies": {
     "@wkovacs64/prettier-config": "3.0.3",
     "browser-sync": "2.29.3",
-    "prettier": "3.0.2"
+    "prettier": "3.0.3"
   },
   "private": true
 }
