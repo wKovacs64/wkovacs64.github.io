@@ -17,7 +17,7 @@
     "start": "browser-sync start --server --files ."
   },
   "devDependencies": {
-    "@wkovacs64/prettier-config": "4.2.1",
+    "@wkovacs64/prettier-config": "4.2.2",
     "browser-sync": "3.0.4",
     "prettier": "3.6.2"
   },
