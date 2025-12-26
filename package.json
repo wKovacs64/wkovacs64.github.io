@@ -16,7 +16,7 @@
     "format": "prettier --write .",
     "start": "browser-sync start --server --files ."
   },
-  "packageManager": "pnpm@10.26.0",
+  "packageManager": "pnpm@10.26.1",
   "devDependencies": {
     "@wkovacs64/prettier-config": "4.2.3",
     "browser-sync": "3.0.4",
