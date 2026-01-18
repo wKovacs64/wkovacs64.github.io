@@ -18,7 +18,7 @@
   },
   "packageManager": "pnpm@10.28.0",
   "devDependencies": {
-    "@wkovacs64/prettier-config": "4.2.3",
+    "@wkovacs64/prettier-config": "4.2.4",
     "browser-sync": "3.0.4",
     "prettier": "3.7.4"
   },
