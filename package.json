@@ -1,25 +1,25 @@
 {
   "name": "wkovacs64.github.io",
   "version": "1.0.0",
+  "private": true,
   "description": "wKovacs64 Personal Website",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wKovacs64/wkovacs64.github.io.git"
-  },
+  "homepage": "https://wkovacs64.github.io/",
+  "license": "MIT",
   "author": {
     "name": "Justin Hall",
     "email": "justin.r.hall@gmail.com"
   },
-  "license": "MIT",
-  "homepage": "https://wkovacs64.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wKovacs64/wkovacs64.github.io.git"
+  },
   "scripts": {
     "format": "oxfmt --write .",
     "start": "browser-sync start --server --files ."
   },
-  "packageManager": "pnpm@10.30.1",
   "devDependencies": {
     "browser-sync": "3.0.4",
     "oxfmt": "0.35.0"
   },
-  "private": true
+  "packageManager": "pnpm@10.30.1"
 }
