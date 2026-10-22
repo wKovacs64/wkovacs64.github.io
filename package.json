@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "browser-sync": "3.0.4",
-    "oxfmt": "0.73.0"
+    "oxfmt": "0.74.0"
   },
   "packageManager": "pnpm@12.14.0"
 }
